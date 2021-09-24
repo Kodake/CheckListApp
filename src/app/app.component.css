@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+}
+  
+.completed {
+    color: rgb(10, 116, 63);
+    text-decoration: line-through;
+}
+.b-left {
+    border-left: 2px solid rgb(13, 160, 123);
+    margin-bottom: 2px;
+}
+
+.compl {
+    transition: all 1s ease-in;
+}
